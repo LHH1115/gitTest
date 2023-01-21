@@ -6,6 +6,4 @@
  *
  */
 module sumTest {
-	
-	String a = "";
 }
